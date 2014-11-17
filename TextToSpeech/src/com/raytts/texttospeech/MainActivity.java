@@ -22,9 +22,8 @@ public class MainActivity extends Activity {
             new TextToSpeech.OnInitListener() {
                 @Override
                 public void onInit(int status) {
-                    if (status != TextToSpeech.ERROR) {
+                    if (status != TextToSpeech.ERROR)
                         ttspeech.setLanguage(Locale.US);
-                    }
                 }
             });
      }
