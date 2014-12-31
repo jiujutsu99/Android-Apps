@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensors For Bikers</string>
+    <string name="title_activity_sensors_for_bikers">SensorsForBikers</string>
+    <string name="action_settings">Settings</string>
+   	
+
+</resources>
